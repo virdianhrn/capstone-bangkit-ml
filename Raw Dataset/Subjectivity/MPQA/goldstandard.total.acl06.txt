@@ -1,0 +1,354 @@
+noun acceptance 1 S NA twilson-training
+noun acceptance 2 S NA 
+noun acceptance 3 B NA 
+noun acceptance 4 O NA 
+noun acceptance 5 O NA 
+noun acceptance 6 S NA 
+noun acceptance 7 O NA 
+noun admission 1 O NA 
+noun admission 2 S NA clear-case-but-low-precision-same-numbers-for-all-three-senses
+noun admission 3 O NA 
+noun alarm 1 S NA 
+noun alarm 2 O NA 
+noun alarm 3 O NA 
+noun alarm 4 O NA 
+noun assault 1 O NA no-ws-for-verbal-assault
+noun assault 2 O NA 
+noun assault 3 O NA 
+noun assault 4 O NA 
+noun attack 1 O NA 
+noun attack 2 O NA 
+noun attack 3 S NA 
+noun attack 4 O NA 
+noun attack 5 O NA 
+noun attack 6 O NA 
+noun attack 7 B NA ideas-OR-ACTIONS-intended-to-deal-with-a-problem-or-situation-changedec13
+noun attack 8 O NA 
+noun attack 9 S NA 
+noun barrage 1 S NA not-just-communication-is-a-subjective-element
+noun barrage 2 O NA 
+noun blow 1 O NA twilson-training
+noun blow 2 O NA 
+noun blow 3 S NA 
+noun blow 4 S NA 
+noun blow 5 O NA 
+noun blow 6 O NA 
+noun blow 7 O NA 
+noun bomb 1 O NA 
+noun bomb 2 O NA 
+noun bomb 3 S NA 
+noun brain 1 O NA 
+noun brain 2 S NA 
+noun brain 3 S NA 
+noun brain 4 S NA the-word-brain-used-this-way-is-a-subjective-element-changedec13-was-US
+noun brain 5 O NA 
+noun catch 1 S NA 
+noun catch 2 O NA 
+noun catch 3 S NA 
+noun catch 4 O NA 
+noun catch 5 S NA 
+noun catch 6 O NA 
+noun catch 7 O NA 
+noun catch 8 O NA 
+noun catch 9 O NA 
+noun catch 10 O NA 
+noun commitment 1 S NA 
+noun commitment 2 S NA 
+noun commitment 3 O NA 
+noun commitment 4 UB NA message-that-makes-a-pledge-changedec13-was-US
+noun commitment 5 O NA 
+noun depression 1 S NA 
+noun depression 2 O NA 
+noun depression 3 O NA 
+noun depression 4 S NA 
+noun depression 5 O NA 
+noun depression 6 O NA 
+noun depression 7 UO NA 
+noun depression 8 O NA 
+noun depression 9 O NA 
+noun depression 10 O NA 
+noun division 1 O NA 
+noun division 2 O NA 
+noun division 3 O NA 
+noun division 4 O NA 
+noun division 5 O NA 
+noun division 6 S NA 
+noun division 7 O NA 
+noun division 8 O NA 
+noun division 9 O NA 
+noun division 10 O NA 
+noun division 11 O NA 
+noun division 12 O NA 
+noun drive 1 O NA 
+noun drive 2 O NA 
+noun drive 3 B NA 
+noun drive 4 O NA 
+noun drive 5 S NA 
+noun drive 6 O NA 
+noun drive 7 O NA 
+noun drive 8 O NA 
+noun drive 9 S NA 
+noun drive 10 O NA 
+noun drive 11 O NA 
+noun drive 12 O NA 
+noun street 1 O NA twilson-training
+noun street 2 O NA 
+noun street 3 S NA 
+noun street 4 B NA 
+noun street 5 O NA 
+verb abandon 1 O NA gloss-suggests-O-hypernymn-suggests-B-but-hypernym-could-cover-both-O-and-S-and-this-sense-is-O
+verb abandon 2 UB NA including-ideas-and-claims-suggests-B-changedec13-was-US
+verb abandon 3 S NA 
+verb abandon 4 O NA 
+verb abandon 5 S NA 
+verb absorb 1 O NA 
+verb absorb 2 S NA 
+verb absorb 3 O NA 
+verb absorb 4 B NA excellent-example-to-give-of-both
+verb absorb 5 O NA 
+verb absorb 6 O NA 
+verb absorb 7 S NA 
+verb absorb 8 B NA gloss-makes-O-possible-hypernym-strongly-suggests-S-possible
+verb absorb 9 S NA 
+verb accept 1 S NA twilson-training
+verb accept 2 S NA 
+verb accept 3 S NA 
+verb accept 4 S NA 
+verb accept 5 O NA 
+verb accept 6 O NA 
+verb accept 7 S NA 
+verb accept 8 O NA 
+verb accept 9 O NA 
+verb accept 10 B NA 
+verb accept 11 O NA 
+verb admit 1 S NA 
+verb admit 2 O NA 
+verb admit 3 O NA 
+verb admit 4 O NA 
+verb admit 5 UB NA  changedec13-was-US
+verb admit 6 O NA 
+verb admit 7 O NA 
+verb admit 8 O NA 
+verb assault 1 B NA a-hypernym-is-physical-or-emotional-attack-so-not-teased-apart
+verb assault 2 O NA 
+verb assault 3 S NA 
+verb attack 1 O NA 
+verb attack 2 S NA 
+verb attack 3 O NA 
+verb attack 4 B NA good-example-for-both
+verb attack 5 UO NA mainly-objective-but-has-an-element-of-S-in-it-uncertainty-not-a-wordnet-question
+verb attack 6 O NA 
+verb beam 1 S NA twilson-training
+verb beam 2 O NA 
+verb beam 3 S NA 
+verb beam 4 O NA 
+verb beam 5 B NA 
+verb beam 6 S NA 
+verb blast 1 O NA verb-blast-does-not-have-a-subjective-sense
+verb blast 2 O NA 
+verb blast 3 O NA 
+verb bloom 1 O NA only-1-sense-in-this-version-of-WordNet
+verb boil 1 O NA twilson-training
+verb boil 2 O NA 
+verb boil 3 O NA 
+verb boil 4 O NA 
+verb boil 5 S NA 
+verb bomb 1 O NA 
+verb bomb 2 S NA 
+verb challenge 1 S NA 
+verb challenge 2 UO NA 
+verb challenge 3 O NA 
+verb challenge 4 UB NA can-we-just-go-by-the-gloss-not-enough-info-in-wordnet-hypernymn-suggests-some-S-changedec13-was-B
+verb choke 1 S NA 
+verb choke 2 O NA 
+verb choke 3 O NA 
+verb choke 4 O NA 
+verb choke 5 O NA 
+verb choke 6 S NA 
+verb choke 7 S NA 
+verb choke 8 O NA 
+verb choke 9 O NA 
+verb choke 10 S NA 
+verb choke 11 S NA 
+verb choke 12 US NA 
+verb choke 13 O NA hypernymn-and-gloss-dont-match-i-tagged-by-gloss-changedec13-was-UO
+verb choke 14 O NA 
+verb distort 1 S NA 
+verb distort 2 O NA 
+verb distort 3 O NA 
+verb distort 4 S NA 
+verb distort 5 O NA 
+verb distress 1 S NA only-1-sense-in-this-version-of-WordNet
+verb drive 1 O NA 
+verb drive 2 O NA 
+verb drive 3 O NA 
+verb drive 4 B NA 
+verb drive 5 S NA 
+verb drive 6 O NA 
+verb drive 7 S NA 
+verb drive 8 O NA 
+verb drive 9 O NA 
+verb drive 10 US NA 
+verb drive 11 S NA 
+verb drive 12 O NA 
+verb drive 13 O NA 
+verb drive 14 O NA 
+verb drive 15 O NA 
+verb drive 16 O NA 
+verb drive 17 O NA 
+verb drive 18 O NA 
+verb drive 19 O NA 
+verb drive 20 O NA 
+verb drive 21 O NA 
+verb drive 22 O NA 
+verb maneuver 1 O NA 
+verb maneuver 2 S NA 
+verb maneuver 3 O NA 
+verb occupy 1 O NA 
+verb occupy 2 UO NA 
+verb occupy 3 O NA 
+verb occupy 4 O NA 
+verb occupy 5 S NA 
+verb occupy 6 O NA 
+verb occupy 7 O NA 
+verb occupy 8 S NA 
+verb realize 1 S NA 
+verb realize 2 S NA 
+verb realize 3 O NA 
+verb realize 4 O NA 
+verb realize 5 O NA 
+verb realize 6 O NA 
+noun hate 1 S NA
+noun belief 1 S NA
+noun belief 2 S NA
+noun sentiment 1 S NA
+noun sentiment 2 S NA
+noun adoration 1 S NA
+noun adoration 2 S NA
+noun adoration 3 S NA
+verb migrate 1 O NA
+verb migrate 2 O NA
+verb fascinate 1 S NA
+verb fascinate 2 S NA
+verb fascinate 3 S NA
+verb confiscate 1 O NA
+verb berate 1 S NA
+verb endear 1 S NA
+verb implore 1 S NA
+noun argument 1 S NA
+noun argument 2 S NA
+noun argument 3 S NA
+noun argument 4 O NA
+noun argument 5 O NA
+noun arm 1 O NA
+noun arm 2 O NA
+noun arm 3 O NA
+noun arm 4 O NA
+noun arm 5 O NA
+noun arm 6 O NA
+noun degree 1 B NA
+noun degree 2 B NA
+noun degree 3 O NA
+noun degree 4 O NA
+noun degree 5 O NA
+noun degree 6 O NA
+noun degree 7 O NA
+noun difference 1 O NA
+noun difference 2 O NA
+noun difference 3 S NA
+noun difference 4 S NA
+noun difference 5 O NA
+noun disc 1 O NA
+noun disc 2 O NA
+noun disc 3 O NA
+noun disc 4 O NA
+noun image 1 S NA
+noun image 2 O NA
+noun image 3 US NA
+noun image 4 S NA
+noun image 5 O NA
+noun image 6 O NA
+noun image 7 O NA
+noun judgment 1 S NA
+noun judgment 2 S NA
+noun judgment 3 O NA
+noun judgment 4 S NA
+noun judgment 5 O NA
+noun judgment 6 S NA
+noun judgment 7 S NA
+noun paper 1 O NA
+noun paper 2 O NA
+noun paper 3 O NA
+noun paper 4 O NA
+noun paper 5 O NA
+noun paper 6 O NA
+noun paper 7 O NA
+noun plan 1 S NA
+noun plan 2 O NA
+noun plan 3 O NA
+noun shelter 1 O NA
+noun shelter 2 O NA
+noun shelter 3 O NA
+noun shelter 4 O NA
+noun shelter 5 O NA
+noun atmosphere 1 S NA
+noun atmosphere 2 O NA
+noun atmosphere 3 O NA
+noun atmosphere 4 O NA
+noun atmosphere 5 O NA
+noun atmosphere 6 S NA
+noun audience 1 O NA
+noun audience 2 O NA
+noun audience 3 O NA
+noun audience 4 O NA
+noun bank 1 O NA
+noun bank 2 O NA
+noun bank 3 O NA
+noun bank 4 O NA
+noun bank 5 O NA
+noun bank 6 O NA
+noun bank 7 O NA
+noun bank 8 O NA
+noun bank 9 O NA
+noun bank 10 O NA
+noun difficulty 1 O NA 1-and-4-are-more-likely-to-be-subjective-than-2-and-3
+noun difficulty 2 O NA
+noun difficulty 3 O NA
+noun difficulty 4 O NA
+noun interest 1 S NA
+noun interest 2 B NA add-interest-to-a-room-&-it-was-of-great-interest
+noun interest 3 O NA in-the-interest-of-safety
+noun interest 4 O NA financial-interest
+noun interest 5 O NA gardening-sailing
+noun interest 6 O NA
+noun interest 7 O NA
+noun organization 1 O NA
+noun organization 2 O NA
+noun organization 3 O NA
+noun organization 4 O NA
+noun organization 5 O NA
+noun organization 6 O NA
+noun organization 7 O NA
+noun performance 1 O NA
+noun performance 2 O NA
+noun performance 3 O NA
+noun performance 4 O NA the-most-objective-one
+noun performance 5 O NA
+noun sort 1 O NA
+noun sort 2 B NA sort-of-magenta-dress-british-use-that-objectively
+noun sort 3 S NA hes-a-good-sort-of-person
+noun sort 4 O NA
+noun source 1 O NA
+noun source 2 O NA but-a-source 
+noun source 3 O NA but-a-source
+noun source 4 O NA but-a-source
+noun source 5 O NA
+noun source 6 S NA but-source-of-inspiration-seed-germ
+noun source 7 O NA but-a-source
+noun source 8 O NA
+noun source 9 O NA
+noun party 1 O NA
+noun party 2 O NA
+noun party 3 O NA
+noun party 4 O NA
+noun party 5 O NA
