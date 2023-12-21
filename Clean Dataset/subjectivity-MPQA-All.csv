@@ -1,0 +1,1202 @@
+text,subjectivity_score,objectivity_score
+cercaan,0.3333333333333333,0.6666666666666666
+sekop,0.3333333333333333,0.6666666666666666
+turis,0.0,1.0
+reseksi,0.0,1.0
+jalan,0.25,0.75
+pelawak,0.0,1.0
+bunuh diri,0.0,1.0
+kesabaran,0.5,0.5
+memuji,1.0,0.0
+kritik,0.6666666666666666,0.3333333333333333
+badut,0.0,1.0
+toko daging,0.3333333333333333,0.6666666666666666
+tangguh,0.0,1.0
+per tempat tidur,0.0,1.0
+ketidakadilan,1.0,0.0
+desa,0.0,1.0
+antek,1.0,0.0
+kesalahan,0.4285714285714285,0.5714285714285714
+membutuhkan,0.5,0.5
+ikan teri,0.0,1.0
+penjahat,0.25,0.75
+penekanan,0.25,0.75
+seksi,1.0,0.0
+siksaan,0.5,0.5
+keumuman,0.0,1.0
+lesbian,0.0,1.0
+melunakkan,0.6666666666666666,0.3333333333333333
+limbah,0.75,0.25
+ikan kotak,0.0,1.0
+pita,0.0,1.0
+sikap tunduk,1.0,0.0
+beban kerja,0.0,1.0
+fantasi,0.5,0.5
+tong,0.0,1.0
+draf,0.0,1.0
+moralitas,1.0,0.0
+korupsi,0.6666666666666666,0.3333333333333333
+khlorida,0.0,1.0
+menyelinap,0.5,0.5
+kohesi,0.0,1.0
+brutal,0.3333333333333333,0.6666666666666666
+mengaduk,1.0,0.0
+belas kasihan,1.0,0.0
+membina,1.0,0.0
+kecenderungan,0.4,0.6
+katalog,0.0,1.0
+kotor,0.5,0.5
+bagian belakang,0.0,1.0
+merasa,1.0,0.0
+iblis,0.5,0.5
+kesehatan,0.3333333333333333,0.6666666666666666
+kezaliman,0.0,1.0
+tidak bersalah,0.5,0.5
+diinginkan,0.0,1.0
+ketajaman,0.5,0.5
+ketidakjujuran,1.0,0.0
+mendidih,0.0,1.0
+membela,0.3333333333333333,0.6666666666666666
+menggeram,1.0,0.0
+lubang mata-mata,0.0,1.0
+ekstrim,0.5,0.5
+Oxford,0.0,1.0
+gemuruh,0.0,1.0
+pengurangan,0.0,1.0
+tidak sopan,1.0,0.0
+air laut,0.0,1.0
+api,0.5,0.5
+bencana,0.75,0.25
+strontium,0.0,1.0
+memperdaya,0.1428571428571428,0.8571428571428571
+melangkah,0.0,1.0
+mengabaikan,1.0,0.0
+ekor bulu,0.0,1.0
+murni,0.0,1.0
+pembuatan,0.0,1.0
+regresi,0.5,0.5
+keyakinan,1.0,0.0
+kembali,0.3,0.7
+pemborosan,1.0,0.0
+pendukung,0.0,1.0
+pendapat,0.5,0.5
+persemaian,0.5,0.5
+dalam,0.4,0.6
+ketukan genderang,0.0,1.0
+amnesti,0.0,1.0
+tentara salib,0.0,1.0
+sion,1.0,0.0
+permusuhan,0.75,0.25
+kebanggaan,0.8,0.2
+jalan lain,0.0,1.0
+menghindari,0.6666666666666666,0.3333333333333333
+keabsahan,1.0,0.0
+lulus,0.0,1.0
+menjemput,0.0,1.0
+promotor,0.0,1.0
+ekstasi,0.5,0.5
+pandangan,1.0,0.0
+kebenaran,1.0,0.0
+turun,0.0,1.0
+kebuntuan,0.0,1.0
+tidak terputus,0.0,1.0
+gangguan,0.4666666666666667,0.5333333333333333
+taplak meja,0.0,1.0
+kiamat,0.5,0.5
+ledakan,0.0,1.0
+lengan,0.0,1.0
+elan,1.0,0.0
+kejayaan,0.6666666666666666,0.3333333333333333
+cemerlang,0.6363636363636364,0.3636363636363636
+penggiling,0.0,1.0
+keracunan,1.0,0.0
+dermawan,1.0,0.0
+candaan,1.0,0.0
+radikal,0.0,1.0
+osilasi,0.0,1.0
+godaan,1.0,0.0
+kubik,0.0,1.0
+ketidaklogisan,1.0,0.0
+kotak surat,0.0,1.0
+jalan keluar,0.0,1.0
+perjanjian,0.5,0.5
+hak istimewa,0.0,1.0
+dorongan,1.0,0.0
+ketukan,0.5,0.5
+pipi,0.0,1.0
+distrofi,0.0,1.0
+sampah,0.5,0.5
+rasa tidak hormat,1.0,0.0
+kepuasan,0.6666666666666666,0.3333333333333333
+kemerosotan,0.0,1.0
+puncak,0.3333333333333333,0.6666666666666666
+setan,0.6666666666666666,0.3333333333333333
+individualitas,0.5,0.5
+tukang suap,0.0,1.0
+menyebabkan,0.0,1.0
+berbohong,0.0,1.0
+agitasi,0.75,0.25
+sakit kepala,0.5,0.5
+kepercayaan,0.0,1.0
+penyitaan,0.0,1.0
+konjungtivitis,0.0,1.0
+anak cucu,0.0,1.0
+pembaruan,1.0,0.0
+jalan buntu,0.5,0.5
+biasa-biasa saja,1.0,0.0
+homogen,0.0,1.0
+reduktor,0.0,1.0
+kilau,0.3333333333333333,0.6666666666666666
+tikus,0.1666666666666666,0.8333333333333334
+tepat,0.3333333333333333,0.6666666666666666
+berdiri,0.3333333333333333,0.6666666666666666
+keuntungan,0.3333333333333333,0.6666666666666666
+bantuan,0.2,0.8
+landasan,0.3333333333333333,0.6666666666666666
+liar,0.0,1.0
+tuduhan,0.0,1.0
+laguna,0.0,1.0
+perlindungan,0.3333333333333333,0.6666666666666666
+insentif,0.0,1.0
+sikap keras kepala,1.0,0.0
+kehebohan,0.0,1.0
+depresi,0.2222222222222222,0.7777777777777778
+baji,0.0,1.0
+kesenangan,0.8333333333333334,0.1666666666666666
+tempat berlindung,0.0,1.0
+balita,0.0,1.0
+degradasi,1.0,0.0
+budak,0.5,0.5
+keputusasaan,1.0,0.0
+menggertakkan,0.0,1.0
+cahaya redup,0.5,0.5
+kepositifan,0.0,1.0
+antipati,1.0,0.0
+delegasi,0.0,1.0
+aktuator,0.0,1.0
+mencurangi,0.3333333333333333,0.6666666666666666
+ahli kelautan,0.0,1.0
+penderita,0.0,1.0
+raksasa,0.2857142857142857,0.7142857142857143
+fitnah,0.6666666666666666,0.3333333333333333
+tdk tepat,0.0,1.0
+harmoni,0.6,0.4
+ketidakkonsistenan,0.5,0.5
+peninggian,0.3333333333333333,0.6666666666666666
+penindasan,0.0,1.0
+memutar,0.0,1.0
+fiksi,0.5,0.5
+tantangan,0.4,0.6
+juga,0.5,0.5
+terakhir,0.5,0.5
+pasukan,0.0,1.0
+ketegangan,0.2,0.8
+pengkhianatan,0.8,0.2
+orang bodoh,1.0,0.0
+meniup,0.2857142857142857,0.7142857142857143
+normal,0.0,1.0
+haus,0.0,1.0
+pesona,0.0,1.0
+keanehan,1.0,0.0
+perang salib,0.0,1.0
+kekosongan,0.3333333333333333,0.6666666666666666
+menyentuh,0.375,0.625
+ancaman,1.0,0.0
+anggapan,0.2857142857142857,0.7142857142857143
+kemudahan,1.0,0.0
+selebriti,1.0,0.0
+hubungan,0.5,0.5
+parodi,1.0,0.0
+awalan,0.0,1.0
+manset,0.0,1.0
+semangat,1.0,0.0
+kata keterangan,0.0,1.0
+pembayaran kembali,0.0,1.0
+diktator,0.5,0.5
+humor,0.6666666666666666,0.3333333333333333
+obsesi,1.0,0.0
+penghukuman,1.0,0.0
+kapalan,0.0,1.0
+nasib buruk,1.0,0.0
+distorsi,0.5,0.5
+pergolakan,0.0,1.0
+rintangan,0.0,1.0
+keunggulan,0.6666666666666666,0.3333333333333333
+ketidakpercayaan,1.0,0.0
+rekomendasi,1.0,0.0
+sentimen,1.0,0.0
+tangki,0.0,1.0
+empedu,0.5,0.5
+prospek,0.5,0.5
+stereo,0.0,1.0
+kenikmatan,0.0,1.0
+robolo,0.0,1.0
+kecurigaan,0.75,0.25
+tembel,0.0,1.0
+kerusuhan,1.0,0.0
+tiang pancang,0.0,1.0
+pentingnya,1.0,0.0
+kedangkalan,0.5,0.5
+selat,0.0,1.0
+nyeri,0.6666666666666666,0.3333333333333333
+gulungan,0.0,1.0
+pengencangan wajah,0.0,1.0
+renovasi,0.5,0.5
+ramah,1.0,0.0
+ilusi,0.0,1.0
+redundansi,0.0,1.0
+penerimaan,0.4444444444444444,0.5555555555555556
+belum dibayar,0.0,1.0
+kedaulatan,0.0,1.0
+aneh,0.3333333333333333,0.6666666666666666
+bentrokan,0.75,0.25
+bertarung,0.4,0.6
+kilatan,0.2222222222222222,0.7777777777777778
+persatuan,0.0,1.0
+muntah,0.0,1.0
+realitas,0.0,1.0
+membelah,0.0,1.0
+mengganggu,1.0,0.0
+menekankan,0.3333333333333333,0.6666666666666666
+tawaran,0.3333333333333333,0.6666666666666666
+sciara,0.0,1.0
+tawar-menawar,1.0,0.0
+pengembalian,0.0,1.0
+prestasi,0.0,1.0
+pedagang minuman keras,0.0,1.0
+ghetto,0.5,0.5
+kesopanan,0.8333333333333334,0.1666666666666666
+memutuskan,0.5,0.5
+pertahanan,0.3,0.7
+manakin,0.0,1.0
+menguasai,0.1111111111111111,0.8888888888888888
+aktif,0.1428571428571428,0.8571428571428571
+kecabulan,1.0,0.0
+tanggung jawab,0.6666666666666666,0.3333333333333333
+beruntung,1.0,0.0
+lambang,0.5,0.5
+rasa gelisah,0.75,0.25
+lampu,0.3846153846153846,0.6153846153846154
+merusak,0.5,0.5
+kapitulasi,0.0,1.0
+keraguan,1.0,0.0
+Maroko,0.0,1.0
+tinggal,0.5,0.5
+cepat,0.5,0.5
+penyangkalan,0.0,1.0
+kerusakan,0.2,0.8
+Misteri,0.0,1.0
+perbedaan,0.0,1.0
+jelaga,0.25,0.75
+penghindaran,0.5,0.5
+bersorak,1.0,0.0
+arcade,0.0,1.0
+posisi,0.3076923076923077,0.6923076923076923
+daya hidup,0.3333333333333333,0.6666666666666666
+bahaya,1.0,0.0
+penaikan,0.0,1.0
+menghormati,0.8571428571428571,0.1428571428571428
+tidak tanggap,1.0,0.0
+lirik,1.0,0.0
+sikap tenang,0.3333333333333333,0.6666666666666666
+kelahiran,0.0,1.0
+quassia,0.0,1.0
+reservasi,0.1428571428571428,0.8571428571428571
+mengalahkan,0.5,0.5
+orang yang merayakan,0.0,1.0
+ketidakpedulian,1.0,0.0
+sorak kegirangan,1.0,0.0
+ideal,1.0,0.0
+pahlawan wanita,0.0,1.0
+lorong,0.0,1.0
+pembenaran,1.0,0.0
+keterlambatan,0.0,1.0
+motivasi,1.0,0.0
+sekop,0.1666666666666666,0.8333333333333334
+menghargai,1.0,0.0
+emir,0.0,1.0
+terobosan,0.6666666666666666,0.3333333333333333
+perebutan kuasa,0.0,1.0
+kekuasaan,0.5,0.5
+kelemahan,1.0,0.0
+lelucon,0.5,0.5
+keburukan,1.0,0.0
+keberpihakan,1.0,0.0
+rentetan,0.5,0.5
+retorik,0.75,0.25
+hangat,0.0,1.0
+antagonisme,0.6666666666666666,0.3333333333333333
+alam,0.2,0.8
+penghancuran,0.3333333333333333,0.6666666666666666
+koherensi,1.0,0.0
+Bagus,1.0,0.0
+kekesalan,0.5,0.5
+siap,0.5,0.5
+berdiri,0.1,0.9
+penting,0.8,0.2
+barbar,1.0,0.0
+tengah,0.0,1.0
+kelalaian,0.6666666666666666,0.3333333333333333
+suasana,0.3333333333333333,0.6666666666666666
+maksud,0.0,1.0
+tuntutan,0.4,0.6
+kematian,0.0,1.0
+terampil,1.0,0.0
+anggun,0.75,0.25
+belum diproses,0.0,1.0
+mengira,0.5,0.5
+gelandangan,0.5,0.5
+kecerobohan,1.0,0.0
+akkadia,0.0,1.0
+bernilai,0.3333333333333333,0.6666666666666666
+harapan,0.75,0.25
+perbedaan,0.4,0.6
+kemustahilan,1.0,0.0
+uropati,0.0,1.0
+persetujuan,0.5,0.5
+tempat berlindung,0.3333333333333333,0.6666666666666666
+ultraungu,0.0,1.0
+membutuhkan,1.0,0.0
+menari,0.0,1.0
+tekad,1.0,0.0
+keributan,0.75,0.25
+setia,0.3333333333333333,0.6666666666666666
+kotoran,1.0,0.0
+tajam,0.0,1.0
+perawan tua,0.0,1.0
+sudut pandang,0.0,1.0
+kepekaan,0.2,0.8
+amal,0.5,0.5
+pakaian,0.0,1.0
+pengabaian,0.6666666666666666,0.3333333333333333
+produk sampingan,0.0,1.0
+pemberang,1.0,0.0
+aborsi,0.0,1.0
+tempat berlindung,0.0,1.0
+keterbukaan,0.5,0.5
+darah,0.2,0.8
+sederhana,0.2857142857142857,0.7142857142857143
+memaksa,0.375,0.625
+Bagaimanapun,0.5,0.5
+adonan,0.0,1.0
+gulma,0.0,1.0
+menimbulkan perasaan cinta,1.0,0.0
+umpatan,0.5,0.5
+aspirasi,0.6666666666666666,0.3333333333333333
+kelelahan,0.0,1.0
+tumpahan,0.0,1.0
+penjaga,0.0,1.0
+memperkirakan,0.8,0.2
+kepribadian,1.0,0.0
+realis,0.5,0.5
+kuda jantan muda,0.0,1.0
+kekaguman,1.0,0.0
+kemunduran,0.0,1.0
+meriam penangkis udara,0.6666666666666666,0.3333333333333333
+paling,0.3333333333333333,0.6666666666666666
+persekutuan,0.0,1.0
+morfin,0.0,1.0
+agresi,1.0,0.0
+rasul,0.3333333333333333,0.6666666666666666
+virus,0.3333333333333333,0.6666666666666666
+toleransi,1.0,0.0
+darah,0.4,0.6
+berjuang,0.6666666666666666,0.3333333333333333
+pendirian,0.5,0.5
+menyerap,0.4285714285714285,0.5714285714285714
+Sehat,0.6153846153846154,0.3846153846153846
+kendit,0.0,1.0
+alarm,0.25,0.75
+fokalisasi,0.0,1.0
+bengkak karena kedinginan,0.0,1.0
+bajingan,0.0,1.0
+menyalahkan,1.0,0.0
+salju longsor,0.5,0.5
+kulit lunak,0.0,1.0
+menggiring bola,0.0,1.0
+kejanggalan,1.0,0.0
+imperialisme,0.0,1.0
+kertas,0.0,1.0
+buritan,0.0,1.0
+merindukan,0.2727272727272727,0.7272727272727273
+Persatuan,0.0,1.0
+Tukang onar,1.0,0.0
+bintang,0.0,1.0
+racun,0.0,1.0
+konveyor,0.0,1.0
+ketidaksetujuan,1.0,0.0
+menggiling,0.0,1.0
+seorang yg diberi cagar,0.0,1.0
+pleomorfisme,0.0,1.0
+keretakan,0.0,1.0
+kejahatan,0.5,0.5
+serangan gencar,0.6666666666666666,0.3333333333333333
+polos,0.0,1.0
+ekspresi,0.3333333333333333,0.6666666666666666
+buram,0.0,1.0
+kedekatan,0.8,0.2
+peradaban,0.75,0.25
+integritas,1.0,0.0
+sumber,0.1111111111111111,0.8888888888888888
+pencegahan,0.6666666666666666,0.3333333333333333
+khayalan,1.0,0.0
+tipis,0.0,1.0
+mengajukan,0.0,1.0
+ampiteater,0.0,1.0
+kematangan,0.0,1.0
+sobekan,0.0,1.0
+pelanggaran,0.5,0.5
+salah arah,0.3333333333333333,0.6666666666666666
+kesyahidan,1.0,0.0
+kelesuan,0.0,1.0
+pengampunan,1.0,0.0
+metodologi,0.0,1.0
+pecah,0.3333333333333333,0.6666666666666666
+binatang buas,0.5,0.5
+ekspresi,0.5555555555555556,0.4444444444444444
+kerja sama,0.0,1.0
+kawan,0.0,1.0
+orang fanatik,0.5,0.5
+pertapaan,0.0,1.0
+ledakan,0.0,1.0
+cambuk,0.0,1.0
+ketidakpraktisan,0.0,1.0
+perayaan,0.0,1.0
+santo,0.0,1.0
+eliminasi,0.0,1.0
+akal,1.0,0.0
+miskin,0.4,0.6
+pengekangan,0.125,0.875
+menyerah,0.75,0.25
+bidaah,1.0,0.0
+yatim piatu,0.0,1.0
+flunitrazepan,0.0,1.0
+pilar,0.4,0.6
+persamaan,0.0,1.0
+sisik,0.0,1.0
+menyita,0.0,1.0
+frustrasi,1.0,0.0
+pembebasan,0.0,1.0
+kerepotan,1.0,0.0
+bank,0.0,1.0
+agresor,0.5,0.5
+menyetir,0.1612903225806451,0.8387096774193549
+kegilaan,0.6666666666666666,0.3333333333333333
+ketidaknyamanan,1.0,0.0
+investasi,0.0,1.0
+neraka,0.6,0.4
+menyiksa,0.8,0.2
+alami,0.1153846153846153,0.8846153846153846
+jujur,0.0,1.0
+kekotoran,0.0,1.0
+perilaku,0.0,1.0
+senat,0.0,1.0
+dukungan,0.0,1.0
+penguasaan,1.0,0.0
+lebih tepatnya,0.75,0.25
+sakit,0.0,1.0
+endapan,0.0,1.0
+patah,0.0,1.0
+kekejian,1.0,0.0
+penangkapan,0.6666666666666666,0.3333333333333333
+gorgon,0.0,1.0
+serius,1.0,0.0
+perhatian,1.0,0.0
+melibatkan,0.1,0.9
+diskriminasi,0.5,0.5
+sempurna,0.5,0.5
+kegembiraan,1.0,0.0
+unggul,1.0,0.0
+degenerasi,0.6666666666666666,0.3333333333333333
+pencukuran bulu,0.0,1.0
+pertengkaran,0.5,0.5
+memukul,0.125,0.875
+seni drama,0.0,1.0
+penyalin,0.0,1.0
+brownies,0.0,1.0
+sumber hidup,0.5,0.5
+pemadatan,0.0,1.0
+siput,0.3333333333333333,0.6666666666666666
+masalah,0.4285714285714285,0.5714285714285714
+menyorot,0.5,0.5
+ketidaksopanan,1.0,0.0
+kebahagiaan,1.0,0.0
+komunisme,0.0,1.0
+kemewahan,1.0,0.0
+keadilan,0.75,0.25
+mencoba,0.2222222222222222,0.7777777777777778
+kebaikan,0.9,0.1
+klimatologi,0.0,1.0
+cakram,0.0,1.0
+kemampuan,1.0,0.0
+mengalahkan,0.5,0.5
+raksasa,0.5714285714285714,0.4285714285714285
+subversi,0.5,0.5
+memisahkan,0.25,0.75
+pertimbangan,0.7142857142857143,0.2857142857142857
+imajinasi,1.0,0.0
+pemusnahan,0.0,1.0
+melecehkan,0.3333333333333333,0.6666666666666666
+terkejut,0.1428571428571428,0.8571428571428571
+pesuruh,0.0,1.0
+ingin sekali,1.0,0.0
+terbelakang,0.5,0.5
+melucuti senjata,0.0,1.0
+ekspektasi,0.75,0.25
+mudah,0.0,1.0
+kekejaman,1.0,0.0
+kesembronoan,1.0,0.0
+menggila,0.5,0.5
+sesuai,0.5,0.5
+pembeli pengampunan,0.0,1.0
+tugas,0.3333333333333333,0.6666666666666666
+kejahatan,1.0,0.0
+otak,0.6,0.4
+bonus,0.0,1.0
+populer,1.0,0.0
+mengonfrontasi,0.6666666666666666,0.3333333333333333
+penilaian kembali,0.0,1.0
+pengganti,0.0,1.0
+penanda,0.0,1.0
+tidak ada apa-apa,0.0,1.0
+figurasi,0.0,1.0
+titik,0.2272727272727272,0.7727272727272727
+kesukaan,0.5,0.5
+terhormat,1.0,0.0
+oase,0.0,1.0
+kekhawatiran,0.5,0.5
+penyataan,0.2857142857142857,0.7142857142857143
+baru,0.0,1.0
+safranin,0.0,1.0
+g-string,0.0,1.0
+kecukupan,0.0,1.0
+pengkritik,0.5,0.5
+kepercayaan,1.0,0.0
+pengakuan,0.5,0.5
+ketenangan,0.6666666666666666,0.3333333333333333
+nalar,0.8181818181818182,0.1818181818181818
+kecerdikan,1.0,0.0
+pahlawan,0.1666666666666666,0.8333333333333334
+perwujudan,1.0,0.0
+kesulitan,0.2,0.8
+kemurahan hati,0.6666666666666666,0.3333333333333333
+melengkapi,0.0,1.0
+keras,0.5,0.5
+berpesta,0.0,1.0
+minat,0.5714285714285714,0.4285714285714285
+realisasi,0.4,0.6
+pot,0.0,1.0
+kata-kata kotor,0.0,1.0
+amarah,1.0,0.0
+sinagoga,0.0,1.0
+cephalochordate,0.0,1.0
+kepatuhan,0.5,0.5
+autacoid,0.0,1.0
+chicory,0.0,1.0
+kemajuan,0.0,1.0
+Kanan,0.125,0.875
+reaksi,0.4285714285714285,0.5714285714285714
+pengorbanan,0.5,0.5
+kecemasan,1.0,0.0
+penglihatan,0.0,1.0
+jaminan,0.5,0.5
+pembunuh,0.0,1.0
+keterusterangan,1.0,0.0
+pengeboman,0.0,1.0
+kesepakatan,0.2222222222222222,0.7777777777777778
+menempati,0.2857142857142857,0.7142857142857143
+tantangan,0.5,0.5
+tekanan,0.4285714285714285,0.5714285714285714
+keabadian,0.0,1.0
+perbedaan pendapat,1.0,0.0
+nilai,0.5,0.5
+cahaya,0.3333333333333333,0.6666666666666666
+naif,1.0,0.0
+memercayai,0.5,0.5
+kebijaksanaan,0.7142857142857143,0.2857142857142857
+pengagum,1.0,0.0
+menyengat,0.3333333333333333,0.6666666666666666
+makan siang,0.0,1.0
+mengakui,0.1428571428571428,0.8571428571428571
+daya tarik,0.0,1.0
+ego,1.0,0.0
+pielogram,0.0,1.0
+kemenduaan,0.0,1.0
+paprika,0.0,1.0
+alam,0.2857142857142857,0.7142857142857143
+lega,0.3333333333333333,0.6666666666666666
+gairah,0.8333333333333334,0.1666666666666666
+revolusi,0.3333333333333333,0.6666666666666666
+layar,0.0,1.0
+kemalangan,1.0,0.0
+donat,0.0,1.0
+komentator,0.0,1.0
+egotisme,1.0,0.0
+lingkaran,0.0,1.0
+tinjauan ke masa depan,1.0,0.0
+penjara,0.5,0.5
+Renaisans,0.0,1.0
+dusta,0.0,1.0
+membenci,1.0,0.0
+depresi,0.2222222222222222,0.7777777777777778
+kemarahan,0.6666666666666666,0.3333333333333333
+gerombolan,0.0,1.0
+musuh,0.5,0.5
+cawat,0.0,1.0
+penggosokan,0.0,1.0
+garis air,0.0,1.0
+pendaki,0.0,1.0
+tetap,0.0,1.0
+cedera,0.0,1.0
+perahu kecil,0.0,1.0
+menendang,0.25,0.75
+platform,0.0,1.0
+anak nakal,0.5,0.5
+melengkung,0.0,1.0
+Kecelakaan kapal,0.0,1.0
+berpengaruh,0.0,1.0
+sukacita,1.0,0.0
+kartun,0.5,0.5
+panas,0.5,0.5
+tekanan,0.3571428571428571,0.6428571428571429
+berarti,0.4285714285714285,0.5714285714285714
+gelandangan,0.2,0.8
+setia,1.0,0.0
+gambar,0.3333333333333333,0.6666666666666666
+upeti,0.5,0.5
+peningkatan,0.6666666666666666,0.3333333333333333
+kepalsuan,0.0,1.0
+penghalang jalan,0.0,1.0
+stagnasi,0.5,0.5
+kecantikan,1.0,0.0
+pingsan,1.0,0.0
+ancaman,0.5,0.5
+mentalitas,1.0,0.0
+penebusan,0.0,1.0
+larangan,0.3333333333333333,0.6666666666666666
+surga,0.0,1.0
+kebencian,1.0,0.0
+bisa ular,0.0,1.0
+biologis,0.0,1.0
+preseden,0.25,0.75
+urgensi,1.0,0.0
+kelembutan,0.8,0.2
+pengaruh,0.6666666666666666,0.3333333333333333
+bijak,0.3333333333333333,0.6666666666666666
+tokoh,1.0,0.0
+watak,1.0,0.0
+padat,0.3571428571428571,0.6428571428571429
+berbohong,0.3333333333333333,0.6666666666666666
+kemerdekaan,0.0,1.0
+penjepit,0.0,1.0
+pertunjukan,0.0,1.0
+meskipun,1.0,0.0
+menunjukkan,0.1666666666666666,0.8333333333333334
+mendukung,0.2,0.8
+tambahan,0.0,1.0
+penyumbatan,0.0,1.0
+argumen,0.8,0.2
+iri,1.0,0.0
+menikmati,0.6,0.4
+pantai,0.0,1.0
+kelupaan,1.0,0.0
+halusinasi,0.0,1.0
+keengganan,0.5,0.5
+gesekan,0.0,1.0
+armada,0.0,1.0
+juara,0.3333333333333333,0.6666666666666666
+warna teknis,0.0,1.0
+kebebasan,0.0,1.0
+keajaiban,1.0,0.0
+mempertaruhkan,0.1666666666666666,0.8333333333333334
+penalti,0.0,1.0
+perbudakan,0.5,0.5
+optimisme,1.0,0.0
+bakat,1.0,0.0
+selang,0.0,1.0
+menekankan,0.3333333333333333,0.6666666666666666
+ketidakmampuan,0.5,0.5
+kehakiman,0.0,1.0
+kegelisahan,1.0,0.0
+aktif,1.0,0.0
+memveto,0.0,1.0
+keintiman,1.0,0.0
+kolusi,1.0,0.0
+wawasan,1.0,0.0
+peserta pelatihan,0.0,1.0
+represi,0.6666666666666666,0.3333333333333333
+menghancurkan,0.25,0.75
+kegugupan,1.0,0.0
+kecemerlangan,0.5,0.5
+kosong,0.0,1.0
+punggung lunak,0.0,1.0
+perusak,0.0,1.0
+ramah,0.5,0.5
+besarnya,1.0,0.0
+kelancangan,1.0,0.0
+meninggalkan,0.5,0.5
+afirmasi,0.0,1.0
+tenggelam,0.0,1.0
+kebiadaban,1.0,0.0
+pembakaran,0.0,1.0
+duka,1.0,0.0
+pertimbangan,0.4285714285714285,0.5714285714285714
+tinggi,0.2857142857142857,0.7142857142857143
+penghinaan,1.0,0.0
+menderita,0.7272727272727273,0.2727272727272727
+tuntutan,0.5,0.5
+penaklukan,1.0,0.0
+mania,0.5,0.5
+bertahan hidup,0.0,1.0
+meninggalkan,0.6,0.4
+kesetiaan,0.5,0.5
+menopang,0.0,1.0
+ikan layar,0.0,1.0
+pandangan,0.6666666666666666,0.3333333333333333
+cerdas,1.0,0.0
+melepaskan,0.0,1.0
+komentar,0.5,0.5
+penolakan,0.6666666666666666,0.3333333333333333
+keramahan,1.0,0.0
+leukotomi,0.0,1.0
+broadaxe,0.0,1.0
+keberuntungan,1.0,0.0
+profesional,0.0,1.0
+menghancurkan,0.4545454545454545,0.5454545454545454
+menyinggung,1.0,0.0
+masa lalu,0.0,1.0
+alam,0.6,0.4
+taji,0.0,1.0
+beban,0.25,0.75
+kanker,0.0,1.0
+penulis buku harian,0.0,1.0
+titik,0.2272727272727272,0.7727272727272727
+ketegangan,0.3333333333333333,0.6666666666666666
+kegigihan,1.0,0.0
+apoteker,0.0,1.0
+sifat takut-takut,1.0,0.0
+menginginkan,1.0,0.0
+kesombongan,1.0,0.0
+silsilah,0.0,1.0
+penyediaan,0.0,1.0
+tidak terdiversifikasi,1.0,0.0
+tantangan,0.2,0.8
+perburuan penyihir,1.0,0.0
+memuaskan,1.0,0.0
+penyelamatan,1.0,0.0
+mengeklaim,0.4,0.6
+kesedihan,1.0,0.0
+orang luar,0.5,0.5
+Cinta,0.0,1.0
+pengecualian,0.3333333333333333,0.6666666666666666
+retikulum,0.0,1.0
+kekhawatiran,0.75,0.25
+perselisihan,1.0,0.0
+adhesi,0.25,0.75
+kemurnian,0.6666666666666666,0.3333333333333333
+pengasingan,0.1666666666666666,0.8333333333333334
+teori,0.0,1.0
+erosi,0.0,1.0
+kesadaran,1.0,0.0
+indeks,0.0,1.0
+puisi,0.0,1.0
+Sehat,1.0,0.0
+sikap merendahkan,1.0,0.0
+kegoyangan,0.0,1.0
+tamak,0.0,1.0
+menyinggung,0.8,0.2
+mengakui,0.1428571428571428,0.8571428571428571
+tersedak,0.3846153846153846,0.6153846153846154
+tipu daya,0.5,0.5
+kesamaan,0.0,1.0
+cepat,0.3333333333333333,0.6666666666666666
+menelantarkan,1.0,0.0
+orang awam,0.0,1.0
+merasa,0.5,0.5
+kaki,0.0,1.0
+dengung,0.2,0.8
+lintah,0.0,1.0
+tradisi,1.0,0.0
+memutarbalikkan,0.4,0.6
+pertimbangan,0.7142857142857143,0.2857142857142857
+primitif,0.0,1.0
+berjalan santai,0.0,1.0
+rasa cemas,0.0,1.0
+tawanan,1.0,0.0
+nalar,0.8,0.2
+sifat berperang,1.0,0.0
+mantra,0.5,0.5
+berlawanan,0.0,1.0
+ketidakkudusan,1.0,0.0
+leher,0.0,1.0
+penting,0.0,1.0
+konflik,0.6,0.4
+diplomasi,0.0,1.0
+bom,0.4,0.6
+bawahan,0.0,1.0
+kekakuan,1.0,0.0
+kesan,0.375,0.625
+drama,0.5,0.5
+kecanduan,0.3333333333333333,0.6666666666666666
+8,0.0,1.0
+janji,0.75,0.25
+elektrifikasi,0.0,1.0
+kemalasan,0.6666666666666666,0.3333333333333333
+peselancar,0.0,1.0
+keberanian,1.0,0.0
+takdir,0.3333333333333333,0.6666666666666666
+penipu,0.0,1.0
+mengganggu,0.9166666666666666,0.0833333333333333
+kemiripan,1.0,0.0
+banyak sekali,0.0,1.0
+kekacauan,0.5714285714285714,0.4285714285714285
+wahyu,0.0,1.0
+paksaan,0.4,0.6
+memukul,0.3636363636363636,0.6363636363636364
+histeri,0.5,0.5
+kebodohan,1.0,0.0
+komitmen,0.5,0.5
+sisa,0.0,1.0
+animasi,1.0,0.0
+keberatan,0.3333333333333333,0.6666666666666666
+kesuraman,0.6666666666666666,0.3333333333333333
+penting,0.25,0.75
+menyelesaikan,0.6,0.4
+niat baik,1.0,0.0
+liberalisme,0.0,1.0
+permohonan,0.3333333333333333,0.6666666666666666
+pemalsuan,0.0,1.0
+kekurangan,0.75,0.25
+menghadapi,0.0,1.0
+artikulasi,0.0,1.0
+hadirin,0.0,1.0
+kompromi,1.0,0.0
+penahanan,0.0,1.0
+menyelesaikan,0.5,0.5
+pterosaurus,0.0,1.0
+kampus,0.0,1.0
+gila,1.0,0.0
+bros,0.0,1.0
+fomart,0.0,1.0
+ketidakseimbangan,0.0,1.0
+hidup,0.0,1.0
+Sayang,0.3333333333333333,0.6666666666666666
+kalikulus,0.0,1.0
+ketegasan,1.0,0.0
+perbedaan,0.4,0.6
+provokasi,1.0,0.0
+bunga,0.0,1.0
+memperoleh,0.3333333333333333,0.6666666666666666
+ejekan,1.0,0.0
+brutal,0.0,1.0
+hiu,0.6666666666666666,0.3333333333333333
+salah paham,1.0,0.0
+minimalisasi,0.0,1.0
+malu,0.5,0.5
+pedalaman,0.0,1.0
+menolak,0.0,1.0
+kekuatan,0.4285714285714285,0.5714285714285714
+ketidakpantasan,1.0,0.0
+divisi,0.0833333333333333,0.9166666666666666
+mengkonsumsi,0.3333333333333333,0.6666666666666666
+perampas,0.25,0.75
+sambilan,1.0,0.0
+apati,1.0,0.0
+organisasi,0.0,1.0
+putus asa,1.0,0.0
+kelelahan,0.1666666666666666,0.8333333333333334
+pelanggaran,0.2,0.8
+membunuh,0.5,0.5
+berkembang,0.0,1.0
+menyerang,0.2,0.8
+manipulator,0.0,1.0
+sentimen,1.0,0.0
+pemenang,0.0,1.0
+aib,1.0,0.0
+penderitaan,1.0,0.0
+membuang,0.3333333333333333,0.6666666666666666
+hiperemia,0.0,1.0
+minat,0.1666666666666666,0.8333333333333334
+resesi,0.0,1.0
+tuli,0.5,0.5
+tipu muslihat,1.0,0.0
+bekerja,0.3243243243243243,0.6756756756756757
+kesempatan,0.0,1.0
+mengedip,0.0,1.0
+spontan,1.0,0.0
+selamat,1.0,0.0
+sesat,1.0,0.0
+kapur,0.0,1.0
+mengejek,1.0,0.0
+penghematan,0.5,0.5
+di dekat,0.0,1.0
+tuang,0.0,1.0
+sabar,0.0,1.0
+sederhana,0.6666666666666666,0.3333333333333333
+melihat,0.2,0.8
+bekas luka,0.5,0.5
+tidur sebentar,0.0,1.0
+menghormati,0.0,1.0
+perjanjian,0.6666666666666666,0.3333333333333333
+kejengkelan,0.6666666666666666,0.3333333333333333
+penyuburan,0.0,1.0
+sikap,0.25,0.75
+meniup,0.2857142857142857,0.7142857142857143
+tabir asap,0.0,1.0
+reposisi,0.0,1.0
+agresivitas,1.0,0.0
+menghantui,0.0,1.0
+klasik,0.5,0.5
+siap,1.0,0.0
+derajat,0.0,1.0
+jungkir balik,0.0,1.0
+dibebankan,0.0,1.0
+keanggunan,1.0,0.0
+hukuman penjara,0.0,1.0
+pembuat plot,0.0,1.0
+eksploitasi,1.0,0.0
+korosi,0.0,1.0
+keras,0.0,1.0
+daun telinga,0.0,1.0
+keamanan,0.25,0.75
+stigma,0.0,1.0
+sifat damai,0.0,1.0
+rekonsiliasi,0.5,0.5
+kejutan,0.0,1.0
+mendidihkan,0.2,0.8
+musuh,0.6666666666666666,0.3333333333333333
+kebajikan,1.0,0.0
+membuka,0.2857142857142857,0.7142857142857143
+menggosok,0.0,1.0
+tunggul,0.0,1.0
+keriuhan di pawai,0.5,0.5
+ledakan,0.2,0.8
+fatamorgana,0.0,1.0
+rumah pendeta,0.0,1.0
+membusuk,0.0,1.0
+kerasnya,1.0,0.0
+bagian,0.0,1.0
+tekan,0.0,1.0
+ketidakamanan,1.0,0.0
+halangan,0.6666666666666666,0.3333333333333333
+bebas,0.1111111111111111,0.8888888888888888
+disonansi,0.3333333333333333,0.6666666666666666
+argumen,0.6,0.4
+bau,0.0,1.0
+pembetulan,0.0,1.0
+sama sekali,0.6,0.4
+tanggung jawab,0.0,1.0
+bangun,0.0,1.0
+sifat tidur,0.0,1.0
+auditor,0.0,1.0
+liga,0.0,1.0
+budaya,0.0,1.0
+konfrontasi,1.0,0.0
+perasaan waswas,1.0,0.0
+menyerang,0.2222222222222222,0.7777777777777778
+polarisasi,0.5,0.5
+tiran,0.5,0.5
+naga,0.0,1.0
+navigator,0.0,1.0
+minat,0.4,0.6
+terompet kecil,0.0,1.0
+menakjubkan,1.0,0.0
+ketidaksenonohan,1.0,0.0
+otak,0.0,1.0
+menangkap,0.3,0.7
+demam,0.5,0.5
+buta,0.2857142857142857,0.7142857142857143
+kelicikan,1.0,0.0
+idola,1.0,0.0
+merindukan,1.0,0.0
+menyenangkan,1.0,0.0
+preferensi,0.75,0.25
+termokouter,0.0,1.0
+belanja,0.0,1.0
+sanggahan,0.0,1.0
+kerangka,0.25,0.75
+kekerasan,1.0,0.0
+berlebihan,0.6666666666666666,0.3333333333333333
+mengizinkan,0.6666666666666666,0.3333333333333333
+penerimaan,0.3333333333333333,0.6666666666666666
+melanggar,0.5,0.5
+kebingungan,1.0,0.0
+target,0.0,1.0
+menyortir,0.3333333333333333,0.6666666666666666
+memengaruhi,0.5,0.5
+kerub,0.5,0.5
+somatotropin,0.0,1.0
+partisan,0.0,1.0
+piknik,0.0,1.0
+berkah,0.0,1.0
+protoantropologi,0.0,1.0
+agen,0.0,1.0
+kisah,0.5,0.5
+semi,0.0,1.0
+Lihat,0.6,0.4
+radioaktif,0.0,1.0
+luka,0.6666666666666666,0.3333333333333333
+gejala,0.0,1.0
+sifat tidak bermoral,1.0,0.0
+perang,0.5,0.5
+tidak langsung,1.0,0.0
+kecemburuan,1.0,0.0
+wabah,0.25,0.75
+nyata,0.3333333333333333,0.6666666666666666
+sumpah,0.0,1.0
+rok,0.0,1.0
+harta benda,0.0,1.0
+protes,0.3333333333333333,0.6666666666666666
+harga diri,0.6666666666666666,0.3333333333333333
+padat,0.0,1.0
+selai,0.25,0.75
+balok,0.6,0.4
+pengunduran diri,0.0,1.0
+kebangkitan,0.0,1.0
+komputasi,0.0,1.0
+ketidakberdayaan,1.0,0.0
+bencana alam,0.5,0.5
+silau,1.0,0.0
+kemungkinan,0.0,1.0
+keuntungan,0.3333333333333333,0.6666666666666666
+sedikit,0.7777777777777778,0.2222222222222222
+jerat,0.0,1.0
+boneka,0.0,1.0
+ketaatan,1.0,0.0
+khadafy,0.0,1.0
+gembala,0.0,1.0
+ketidakteraturan,0.3333333333333333,0.6666666666666666
+kuliah,0.0,1.0
+melecehkan,1.0,0.0
+mohon,1.0,0.0
+laba,0.5,0.5
+akan,0.6666666666666666,0.3333333333333333
+kemitraan,0.0,1.0
+tidak menyenangkan,1.0,0.0
+posisi,0.25,0.75
+kelimpahan,0.3333333333333333,0.6666666666666666
+korban,0.0,1.0
+persepsi,0.5,0.5
+intrik,1.0,0.0
+pembela,0.0,1.0
+mimpi buruk,1.0,0.0
+suara,1.0,0.0
+baik,1.0,0.0
+momok,0.5,0.5
+infiltran,0.0,1.0
+pembantu,0.0,1.0
+lagu,1.0,0.0
+memotong,0.0,1.0
+suaka,0.0,1.0
+Sebenarnya,0.5,0.5
+kecelakaan,1.0,0.0
+ahli psikofisika,0.0,1.0
+pemutarbalikan,0.5,0.5
+sherpa,0.0,1.0
+tenang,0.5,0.5
+pemerasan,1.0,0.0
+Bagus,0.5,0.5
+keluhan,0.3333333333333333,0.6666666666666666
+ketabahan,1.0,0.0
+tertawa,0.0,1.0
+sengketa,1.0,0.0
+radikal,0.4,0.6
+menolak,0.2857142857142857,0.7142857142857143
+lubang angin,0.2,0.8
+inferioritas,1.0,0.0
+adil,0.0,1.0
+mencaci,1.0,0.0
+pemujaan,1.0,0.0
+pengaturan,0.0,1.0
+menyerbu,0.0,1.0
+eisteddfod,0.0,1.0
+rontok,0.5,0.5
+torrent,0.0,1.0
+kekasih,1.0,0.0
+deviasi,0.2,0.8
+implikasi,0.5,0.5
+menerima,0.5,0.5
+Akhirnya,0.3333333333333333,0.6666666666666666
+tukang jualan,0.5,0.5
+kontradiksi,0.0,1.0
+ensiklopedia,0.0,1.0
+miring,0.3333333333333333,0.6666666666666666
+polos,0.5,0.5
+toko makanan,0.0,1.0
+perdamaian,0.4,0.6
+manuver,0.3333333333333333,0.6666666666666666
+hiperkolesterolemia,0.0,1.0
+tidak terpengaruh,1.0,0.0
+berkolaborasi,0.5,0.5
+gereja biara,0.0,1.0
+bugar,0.5,0.5
+kesempurnaan,1.0,0.0
+menipu,0.75,0.25
+rencana,0.3333333333333333,0.6666666666666666
+pemeriksaan,0.0,1.0
+lonjakan,0.0,1.0
+kejatuhan,0.5,0.5
+pemenuhan,0.5,0.5
+keseganan,1.0,0.0
+tumpukan,0.0,1.0
+izin,0.0,1.0
+dosa,0.0,1.0
+kuil,0.0,1.0
+sahabat,0.0,1.0
+rahang,0.0,1.0
+keriangan,1.0,0.0
+pengaruh,0.4,0.6
+klik-klak,0.0,1.0
+muncul,0.2857142857142857,0.7142857142857143
+cara,0.0,1.0
+bahkan jatuh,0.0,1.0
+inspirasi,0.75,0.25
+beban,0.3333333333333333,0.6666666666666666
+penerima,0.0,1.0
+pengenaan,1.0,0.0
+kesulitan,0.0,1.0
+mengasyikkan,1.0,0.0
+migrasi,0.0,1.0
+keagungan,1.0,0.0
+vital,0.2857142857142857,0.7142857142857143
+jumlah lebih besar,0.6666666666666666,0.3333333333333333
+segar,1.0,0.0
+perlawanan,0.0,1.0
+pelanggaran hukum,0.0,1.0
+ketinggalan jaman,0.0,1.0
+tidak ortodoksi,1.0,0.0
+beku,0.0,1.0
+ketidakstabilan,0.6666666666666666,0.3333333333333333
+disayangkan,1.0,0.0
+alasan,0.6666666666666666,0.3333333333333333
+kejujuran,0.75,0.25
+spekulasi,0.0,1.0
+Penyimpanan,0.0,1.0
+sensasi,1.0,0.0
+musuh bebuyutan,0.5,0.5
+minat,0.2857142857142857,0.7142857142857143
+bergegas,1.0,0.0
+katalisator,0.0,1.0
+contoh,0.0,1.0
+popularitas,1.0,0.0
+pendapat,0.6666666666666666,0.3333333333333333
+penjara bawah tanah,0.0,1.0
+wayang,0.3333333333333333,0.6666666666666666
+tidak tetap,0.0,1.0
+kehilangan,0.1538461538461538,0.8461538461538461
+irasional,1.0,0.0
+mengeringkan,0.25,0.75
+kesederhanaan,1.0,0.0
+efusi,0.5,0.5
+kekecewaan,1.0,0.0
+calvinis,0.0,1.0
+sangat diperlukan,1.0,0.0
+trauma,1.0,0.0
+gosip,1.0,0.0
+kesulitan,1.0,0.0
+kepahitan,0.0,1.0
+gimmick,1.0,0.0
+dalam,0.3333333333333333,0.6666666666666666
+kerangka tetra,0.0,1.0
+menyadari,0.3333333333333333,0.6666666666666666
+intoleransi,1.0,0.0
